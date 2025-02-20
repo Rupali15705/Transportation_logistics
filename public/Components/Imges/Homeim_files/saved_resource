@@ -1,0 +1,35 @@
+.wps_visitor_title {
+   display: none !important;
+}
+#wpsvcattribution {
+   display: none !important;
+}
+.jobs-row-input {
+    padding: 0 40px;
+}
+.job-post .jobs-row .jobs-row-label {
+    padding: 0 40px;
+}
+.job-post .job-side {
+    padding: 0 50px !important;
+}
+.job-post .job-content {
+    padding: 0px 50px !important;
+}
+.job-post .job-content-wrap {
+    padding: 0 0px !important;
+}
+.job-post {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 auto 0px !important;
+    overflow: auto !important;
+    padding-top: 0px !important;
+}
+#rs-header.header-style1 .menu-area, #rs-header.header-style5 .menu-area {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.elementor-9 .elementor-element.elementor-element-9060336 .wpcf7-submit {
+    width: 100% !important;
+}

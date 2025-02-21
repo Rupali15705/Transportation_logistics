@@ -19,7 +19,7 @@ const Footer = () => {
             <div className="col-md-3">
               <h6 className="footer-heading">Modern Logistic Transportation</h6>
               <p>
-                ndia is broadly admired for our hasty, prompt,
+                India is broadly admired for our hasty, prompt,
                 dependable, and practical household packing and Moving Services surrounded by our clients.
               </p>
             </div>
